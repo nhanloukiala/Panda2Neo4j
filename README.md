@@ -6,9 +6,9 @@ A simple script to insert Pandas DataFrames into Neo4j graphs. There are 2 modes
 
 Environment: Python 2.7, Unix, Neo4J 2.2 </br>
 
-How to use : </br>
+<h2>How to use :</h2> </br>
 
-Step 1: Edit the follow configurations in "py2neo4j.py": </br>
+<b>Step 1:</b> Edit the follow configurations in "py2neo4j.py": </br>
 serverURL = 'localhost:7474' </br>
 dbURL = 'http://localhost:7474/db/data'</br> 
 account = "neo4j"</br> 
@@ -19,6 +19,6 @@ edgename = "RATED"</br>
 source_name = "Person"</br>
 dest_name = "Person"</br></br>
 
-Step 2: At root folder, run the following command:</br></br>
+<b>Step 2:</b> At root folder, run the following command:</br></br>
 
 <blockquote>python py2neo4j.py</blockquote>
