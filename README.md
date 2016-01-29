@@ -8,7 +8,7 @@ Environment: Python 2.7, Unix, Neo4J 2.2 </br>
 
 <h2>How to use :</h2> </br>
 
-<b>Step 1:</b> Edit the follow configurations in "py2neo4j.py": </br>
+<b>Step 1:</b></br> Edit the follow configurations in "py2neo4j.py": </br>
 serverURL = 'localhost:7474' </br>
 dbURL = 'http://localhost:7474/db/data'</br> 
 account = "neo4j"</br> 
@@ -19,6 +19,6 @@ edgename = "RATED"</br>
 source_name = "Person"</br>
 dest_name = "Person"</br></br>
 
-<b>Step 2:</b> At root folder, run the following command:</br></br>
+<b>Step 2:</b> At root folder, run the following command:</br>
 
 <blockquote>python py2neo4j.py</blockquote>
