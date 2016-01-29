@@ -24,5 +24,5 @@ edgedata = [{'source': '1', 'dest': '2', 'weight': 1, 'rating': 2},
             {'source': '2', 'dest': '4', 'weight': 1, 'rating': 2}]
             
 <h3> Imported Graph </h3>
-<a href='http://postimg.org/image/t3y1hs4rn/' target='_blank'><img src='http://s13.postimg.org/t3y1hs4rn/Screen_Shot_2016_01_29_at_3_08_27_AM.jpg' border='0' alt="Screen Shot 2016 01 29 at 3 08 27 AM" /></a>
+<img src='http://s13.postimg.org/t3y1hs4rn/Screen_Shot_2016_01_29_at_3_08_27_AM.jpg' border='0'/>
 
